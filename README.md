@@ -1,6 +1,8 @@
 # hito1_1trimestre_programacion
 
-Creado en formato estricto, siguiendo las instrucciones del profesor que son las siguientes: 
+Creado en formato estricto, ajuntado perfil a utilizar.
+
+Se siguen las siguientes instrucciones del profesor: 
 
 CUESTIÓN 1.	Gestionar variables y tipos de datos
 •	Configurar Pseint para trabajar en modo estricto, es decir, fuertemente tipado
